@@ -2,7 +2,13 @@
 
 ## Site Link
 
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: https://zurimed.netlify.app/index.html
+
+## Design Link: 
+- https://www.figma.com/file/bnqKiLES2ZDt8QJCKX1kfY/MedLocator?node-id=895%3A78
+
+## Backend Repo Link: 
+- https://github.com/zuri-training/medlocator-be-pjt-28
 
 ## Project Documentation
 https://docs.google.com/document/u/0/d/1sANH8e4rlNl4MW62-kiEPb3-vUEKKnGrfxrOf_A1PeU/
